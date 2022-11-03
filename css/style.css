@@ -186,7 +186,7 @@ i:hover {
     transform: scale(1.3);
 }
 
-@media screen and (max-width:370px) {
+@media screen and (max-width:450px) {
     .flex{
         flex-direction: column;
     }
